@@ -3,6 +3,11 @@
 # My Projects
 Here are a list of projects that I have been working on:
 
+<ul>
+  <li><a href="https://github.com/shantimohan/XF4SD_MasterDetail">Xamarin Forms Master Details app for Surface Duo</a></li>
+  <li><a href="https://github.com/shantimohan/FamilyAndFriends">Family & Friends - A Xamarin Forms demo app</a></li>
+</ul>
+
 # My Interests
 I'm interested in teaching novice coders about developing apps using Xamarin technologies.
 
